@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-typescript-react-csr
   title: Typescript React CSR
-  description: 
+  description: Criar uma single page application usando ReactJs e client side render
   tags:
     - typescript
     - frontend
     - spa
     - pwa
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
